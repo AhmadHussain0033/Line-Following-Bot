@@ -128,6 +128,6 @@ This ensures a comprehensive traversal and optimal mapping of the maze surface w
 
 ## 📜 **Contact**
 
-- **GitHub:** [AhmadHussain0033]  
-- **Email:** [ahmad.hussain.a301@gmail.com]
-- **Contributer** Special Thanks to [Sh4hEeR] for helping come up with the visualization of the concept as well as the golden spiral 
+- **GitHub:** AhmadHussain0033
+- **Email:** ahmad.hussain.a301@gmail.com
+- **Contributer** Special Thanks to Sh4hEeR for helping come up with the visualization of the concept as well as the golden spiral 
